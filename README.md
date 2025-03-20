@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm from France 🇫🇷, currently based in Paris 🌍.
+I'm from France 🥐, currently based in Paris.
 
 Passionate about Node.js, TypeScript, blockchain, and trading, I thrive on building robust and scalable software 💻.
 
