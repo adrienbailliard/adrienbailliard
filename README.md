@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Adrien Bailliard
 
-[<img src="assets/linkedin.svg" height="50px">](https://www.linkedin.com/in/adrien-bailliard/)
+[<img src="assets/linkedin.svg" height="40px">](https://www.linkedin.com/in/adrien-bailliard/)
 
 ## 🙋‍♂️ About me
 
