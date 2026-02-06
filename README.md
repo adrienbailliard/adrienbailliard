@@ -1,4 +1,4 @@
-# Adrien Bailliard
+# Hello, I'm Adrien Bailliard
 
 I bridge the gap between high-level engineering and business performance. My work focuses on high-stakes automation, algorithmic trading, and scalable digital infrastructure.
 
