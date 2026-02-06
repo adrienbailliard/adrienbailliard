@@ -11,7 +11,7 @@ I bridge the gap between high-level engineering and business performance. My wor
 ## Core Stack
 
 * **Languages:** TypeScript, Node.js
-* **Frameworks:** Next.js 15, React, Tailwind CSS
+* **Frameworks:** Next.js 16, React, Tailwind CSS
 * **Infrastructure:** PostgreSQL, Resend, Vercel, Blockchain (XRPL)
 
 ## Connect & Collaborate
