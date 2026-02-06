@@ -1,11 +1,21 @@
-## Hi there 👋, my name is Adrien Bailliard
+# Adrien Bailliard
 
-[<img src="assets/linkedin.svg" height="20px">](https://www.linkedin.com/in/adrienbailliard/)
+I bridge the gap between high-level engineering and business performance. My work focuses on high-stakes automation, algorithmic trading, and scalable digital infrastructure.
 
-## 🙋‍♂️ About me
+## Proof of Work
 
-I'm from France, currently based in Paris.
+* **Algorithmic Trading** - Engineered a high-frequency bot generating **€70k+** in revenue on the XRPL DEX.
+* **Growth Engineering** - Scaled a digital presence to **250k+ monthly impressions** by analyzing the LinkedIn algorithm.
+* **Architecture** - Built [adrienbailliard.com](https://adrienbailliard.com), a unified ecosystem for high-ticket consulting and automated newsletters.
 
-Passionate about blockchain, trading, and clean architecture. I turn complex problems into efficient solutions using Node.js and TypeScript. Always learning, always building.
+## Core Stack
 
-When I'm not deep in code, you'll find me exploring nature, sailing the seas 🌊, or hiking in the mountains ⛰️, always chasing new adventures and pushing my limits.
+* **Languages:** TypeScript, Node.js
+* **Frameworks:** Next.js 15, React, Tailwind CSS
+* **Infrastructure:** PostgreSQL, Resend, Vercel, Blockchain (XRPL)
+
+## Connect & Collaborate
+
+* **Weekly Insights:** [Auto Monday Newsletter](https://adrienbailliard.com/newsletter) - Strategic automation every Monday.
+* **Consulting:** [Book a 1:1 Call](https://adrienbailliard.com/consultation) - Process optimization for the Top 1%.
+* **Professional:** [LinkedIn](https://www.linkedin.com/in/adrienbailliard/)
