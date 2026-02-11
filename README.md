@@ -6,7 +6,7 @@ I architect high-stakes automation that converts technical complexity into scala
 
 * **Trading:** Built an XRP Ledger DEX market maker generating €70k+ in revenue.
 * **Growth:** Scaled organic content distribution to 250k+ monthly impressions.
-* **Ventures:** [adrienbailliard.com](https://adrienbailliard.com) - A minimalist ecosystem for high-ticket consulting.
+* **Ventures:** [adrienbailliard.com](https://adrienbailliard.com) - My operational center for consulting.
 
 ## Stack
 
