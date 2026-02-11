@@ -2,7 +2,7 @@
 
 I architect high-stakes automation that converts technical complexity into scalable revenue.
 
-## Summary
+## Impact
 
 * **Trading:** Built an XRP Ledger DEX market maker generating €70k+ in revenue.
 * **Growth:** Scaled organic content distribution to 250k+ monthly impressions.
