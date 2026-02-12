@@ -17,5 +17,5 @@ I architect high-stakes automation that converts technical complexity into scala
 ## Ecosystem
 
 * **Newsletter:** [Auto Monday](https://adrienbailliard.com/newsletter)
-* **Consulting:** [Book an Audit](https://adrienbailliard.com/consultation)
+* **Consulting:** [Book a Diagnostic](https://adrienbailliard.com/consultation)
 * **Network:** [LinkedIn](https://www.linkedin.com/in/adrienbailliard/)
